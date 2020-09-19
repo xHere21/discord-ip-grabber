@@ -2,7 +2,7 @@
 ob_start();
 error_reporting(0);
 
-$client_id     = ""; //CLIENT ID HERE
+$client_id     = ""; //700009719816912996
 $client_secret = ""; //CLIENT SECRET HERE
 $redirect      = ""; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
 
